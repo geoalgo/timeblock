@@ -8,6 +8,8 @@ Install it by running:
 pip install git+https://github.com/geoalgo/timeblock.git
 ```
 
+You can also add the line "git+https://github.com/geoalgo/timeblock.git" to a requirements.txt.
+
 Use it by doing:
 ```python
 from timeblock import Timeblock
